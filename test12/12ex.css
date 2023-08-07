@@ -1,0 +1,60 @@
+body {
+    background-color: aqua;
+    
+
+}
+header{
+    text-align: center;
+    
+}
+header> h1 {
+    color: crimson;
+}
+header>h2>span{
+    background-color: orange;
+}
+main>h3{
+    margin-right: 530px;
+    background-color: orange;
+    width: 200px;
+    width: max-content;
+    margin-left: 3%;
+    border-radius: 3%;
+    
+}
+
+.azq{
+    background-color: brown;
+    text-align: left;
+}
+.qze{
+    background-color: blue;
+    text-align: left;
+}
+
+main{
+    background-color: palevioletred;
+    padding-top: 20px;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+h4 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+footer{
+    text-align: center;
+    background-color: orange;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+}
+h4{
+    background-color: blue;
+}
+p{
+    background-color: darkgreen;
+}
